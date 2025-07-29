@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-"""
-YouTube Downloader - A simple application for downloading YouTube videos in high resolution
-Author: Claude
-Date: May 5, 2025
-"""
-
 import os
 import sys
 import tkinter as tk
